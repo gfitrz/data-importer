@@ -1,0 +1,5 @@
+"PRIMARY_KEY","NAME","DESCRIPTION","UPDATED_TIMESTAMP"
+"1","first name","first value","2019-06-21T13:27:04.143Z"
+"2","second name","second value","2019-06-24T13:27:04.143Z"
+"3","third name","third value","2019-06-22T13:27:04.143Z"
+"3","third name","third value","2019-06-26T13:27:04.143Z"
